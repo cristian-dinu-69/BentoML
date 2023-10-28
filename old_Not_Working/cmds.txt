@@ -1,0 +1,11 @@
+
+
+$ bentoml models list
+
+$ bentoml serve service.py:service
+
+$ bentoml build
+
+# verify with 
+
+$ bento list
